@@ -30,6 +30,7 @@ public class HCN {
 	public double DienTich() {
 		return d*r;
 	}
+	// ở đây bạn có thể viết thêm hàm nhập từ bàn phím
 	public void Xuat() {
 		System.out.println("Chiều dài : "+this.d+" và chiều rộng : "+this.r);
 		System.out.println("Chu vi hình chữ nhật: "+this.ChuVi());
