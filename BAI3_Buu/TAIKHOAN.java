@@ -61,9 +61,4 @@ public class TAIKHOAN  {
     public void KiemTraSoDu() {
         System.out.println("Số dư hiện tại của tài khoản "+ChuTaiKhoan+"("+SoTaiKhoan+") là: " + SoDu);
     }
-<<<<<<< HEAD
 }
-
-=======
-}
->>>>>>> 91742618a0d8f7f71532ead58ae6eb521eeca2ff
