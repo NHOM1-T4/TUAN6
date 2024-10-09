@@ -4,7 +4,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         TAIKHOAN tk = new TAIKHOAN("0987685473", "Cao Diệu", 500000);
+=======
+        TAIKHOAN tk = new TAIKHOAN("0987654321", "Nguyễn Bửu", 3000233);
+>>>>>>> 91742618a0d8f7f71532ead58ae6eb521eeca2ff
         while (true) {
             System.out.println("\nChọn thao tác:");
             System.out.println("1. Gửi tiền");
@@ -33,4 +37,8 @@ public class Main {
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 91742618a0d8f7f71532ead58ae6eb521eeca2ff
